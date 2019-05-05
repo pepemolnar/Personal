@@ -1,0 +1,23 @@
+body{
+    background-color: #f9fafc;
+}
+header{
+    display: flex;
+    box-shadow: 10px 50px;
+}
+main{
+    display: flex;
+}
+.sider{
+    background-color: white;
+}
+.profileimg{
+    max-width: 100%;
+    border-radius: 5px;
+    border-color: none;
+    padding: 10px;
+    background-color: #fcfcfc;
+}
+h1{
+    font-size: 2em;
+}
